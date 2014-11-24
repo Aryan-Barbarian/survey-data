@@ -1,0 +1,59 @@
+{
+	"Undeclared" : [
+		"Undeclared",
+		"Undecided"
+	],
+	"Business - Economics" : [
+		"Business",
+		"Haas",
+		"Pre-Haas",
+		"Business Administration",
+		"Econ",
+		"Economics",
+		"Political Economy"
+	],
+	"Statistics" : [
+		"Statistics",
+		"Stats"],
+	"Math - Applied Math" : [
+		"Math",
+		"Applied Math",
+		"Mathematics",
+		"Maths"],
+	"Computer Science - EECS" : [
+		"Computer Science",
+		"EECS",
+		"CS",
+		"Comp Sci",
+		"EE",
+		"Electronics Engineering",
+		"electrical engineer"
+	],
+	"Bioengineering" : [
+		"Bioengineering",
+		"BioE",
+		"Bio-Engineering",
+		"Bioeecs"
+	],
+	"Mechanical Engineering" : [
+		"Mechanical Engineering",
+		"Mechanical Engineer",
+		"ME",
+		"Mechanica Engineering",
+		"Mechanical Year",
+		"Meche",
+		"Mech Eng",
+		"Mech e"],
+	"Other Engineering" : [
+		"Other Engineering",
+		"Chemical Engineering",
+		"Environmental Engineering",
+		"nuclear",
+		"civil eng",
+		"nuclear engineering",
+		"civil engineering",
+		"structural engineering",
+		"engineering",
+		"energy engineering"]
+
+}
